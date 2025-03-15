@@ -25,4 +25,12 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
+    <TextView
+        android:id="@+id/tv_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Already have a account?login"
+        android:textSize="23sp"
+        android:layout_marginTop="30dp"
+        android:textStyle="bold" />
 </androidx.constraintlayout.widget.ConstraintLayout>
